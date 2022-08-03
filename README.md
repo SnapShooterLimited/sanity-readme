@@ -34,6 +34,6 @@ If you want to use our automated restore system when something goes wrong you wi
 
 ### Screenshots
 
-![https://i.imgur.com/W52HCqz.png](Backup Settings Example)
+![Backup Settings Example](https://i.imgur.com/W52HCqz.png)
 
-![https://i.imgur.com/Q7XBI3l.png](Past Backups Example)
+![Past Backups Example](https://i.imgur.com/Q7XBI3l.png)
