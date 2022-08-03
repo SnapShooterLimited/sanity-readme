@@ -1,4 +1,4 @@
-Backup your sanity datasets to your own offsite storage, AWS S3, DigitalOcean Spaces, Backblaze, Any other S3, Dropbox, Google Drive or Azure.
+[Sanity Backups](https://snapshooter.com/application/sanity) Backup your sanity datasets to your own offsite storage, AWS S3, DigitalOcean Spaces, Backblaze, Any other S3, Dropbox, Google Drive or Azure.
 
 Schedule backups from Daily to hourly, or provide your own cron schedule. 
 
